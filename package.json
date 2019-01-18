@@ -1,0 +1,14 @@
+{
+  "name": "mindbody",
+  "version": "1.0.0",
+  "description": "Wrapper for the MindBody API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Burnley",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "^0.25.0"
+  }
+}
